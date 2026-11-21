@@ -25,7 +25,7 @@ A curated collection of beginner-level Python projects created to practice progr
 
 2. **Navigate to the project folder:**
    ```bash
-   cd Python-projects
+   cd python-projects
    ```
 
 3. **Run a script:**
