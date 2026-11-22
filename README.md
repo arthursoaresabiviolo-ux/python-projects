@@ -20,7 +20,7 @@ A curated collection of beginner-level Python projects created to practice progr
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com
+   git clone https://github.com/arthursoaresabiviolo-ux/python-projects
    ```
 
 2. **Navigate to the project folder:**
